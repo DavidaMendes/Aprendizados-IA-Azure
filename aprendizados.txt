@@ -1,0 +1,3 @@
+ - O Speech Studio permite transformar voz em texto com alta precisão.
+- O Language Studio oferece insights sobre sentimentos e entidades.
+- Essa tecnologia pode ser usada em chatbots, análise de sentimentos, automação etc.
